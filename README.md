@@ -5,7 +5,8 @@
 I'm a passionate web developer looking for an exciting job where I can use my skills in React, JavaScript, Next.js, Express.js, and MongoDB. I love solving problems and creating awesome websites that make a 
 difference
 
-####Skills:    HTML / CSS / Tailwind Css/ JavaScript / REACT Js/ NextJs/ MongoDB/Firebase
+#### skills:    
+HTML / CSS / Tailwind Css/ JavaScript / REACT Js/ NextJs/ MongoDB/Firebase
 
 - 🔭 I’m currently working on various web development projects to enhance my skills and expand my portfolio. 
 - 🌱 I’m currently learning on Next.js, Node.js, TypeScript, and object-oriented programming principles to further strengthen my abilities as a developer. 
