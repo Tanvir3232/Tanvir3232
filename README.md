@@ -1,7 +1,7 @@
-(https://i.ibb.co/qYn1sYY/profile.png)
-### My name is Tanvir Ahmad
+### Hi there 👋, My name is Tanvir Ahmad
 #### Frontend Developer | Mern Stack Developer 
-![Frontend Developer | Mern Stack Developer ]
+![Frontend Developer | Mern Stack Developer ](https://i.ibb.co/qYn1sYY/profile.png)
+
 I'm a passionate web developer looking for an exciting job where I can use my skills in React, JavaScript, Next.js, Express.js, and MongoDB. I love solving problems and creating awesome websites that make a 
 difference
 
