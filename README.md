@@ -16,9 +16,7 @@ Skills:   HTML / CSS / Tailwind Css/ JavaScript / REACT Js/ NextJs/ MongoDB/Fire
 - ⚡ Fun fact: I love going for walks in nature and exploring new places outdoors! 
 
 
-<div style="display: flex; justify-content: space-around;">
-    ![tanvir3232's Stats](https://github-readme-stats.vercel.app/api?username=tanvir3232&theme=dracula&show_icons=true&hide_border=true&count_private=false)
-    [![GitHub Streak](https://streak-stats.demolab.com?user=tanvir3232&theme=radical)](https://git.io/streak-stats)
-</div>
+![tanvir3232's Stats](https://github-readme-stats.vercel.app/api?username=tanvir3232&theme=dracula&show_icons=true&hide_border=true&count_private=false) | [![GitHub Streak](https://streak-stats.demolab.com?user=tanvir3232&theme=radical)](https://git.io/streak-stats)
+
 
 
